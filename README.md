@@ -82,7 +82,7 @@ Clone this repository to your local machine:
 
 ```bash 
 
-git clone https://github.com/Artxo24/imdb-score-prediction.git 
+git clone https://github.com/Karthikeyan232004/ADS_Phase1.git 
 
 ``` 
 
